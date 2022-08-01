@@ -59,7 +59,7 @@ struct MovieSearchView: View {
             }
             .navigationBarHidden(true)
         }
-
+        
     }
 }
 
